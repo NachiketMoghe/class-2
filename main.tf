@@ -19,6 +19,6 @@ resource "aws_instance" "web" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "Class2-reset"
+    Name = "Class3-reset"
   }
 }
